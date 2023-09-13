@@ -1,0 +1,56 @@
+main {
+    background-color: #BCD8B7;
+}
+
+
+img {
+width: 40vw;
+}
+
+h1 {
+background-color: #35CE8D;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 50px;
+text-align: center;
+}
+
+h1:hover {
+background-color: #6BA292;
+font-style: italic;
+}
+
+a {
+padding-left: 60px;
+padding-right: 60px;
+}
+
+a:hover {
+font-weight: bolder;
+border: #35CE8D;
+border-style: dashed;
+}
+
+ul {
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+li {
+    display: inline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+footer {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: #35CE8D;
+    text-align: center;
+    padding: 24px;
+}
